@@ -1,1 +1,1 @@
-# Symmetry-Structured-Convolutional-Neural-Networks
+# Symmetry Structured Convolutional Neural Networks
